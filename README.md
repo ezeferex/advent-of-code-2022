@@ -12,6 +12,7 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 
 ## Message by day
 ```
+@@@@#@#@@@#.' ~  './\'./\' .@@@#@@#@@@@@##@@@@@##
 #@@@@@@#@_/ ~   ~  \ ' '. '.'.@##@#@@@@@@@#@@@#@@
 -~------'    ~    ~ '--~-----~-~----___________--
 ~    ~  ~      ~     ~ ~   ~     ~  ~  ~   ~
